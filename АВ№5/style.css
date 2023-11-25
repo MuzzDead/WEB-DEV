@@ -1,0 +1,111 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+}
+
+.losung{
+  margin-top: 50px ;
+}
+
+.contacts {
+  display: flex;
+}
+
+.mar{
+    margin-left: 35%;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-control {
+  font-size: 1.2em;
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 10px;
+}
+
+.form-control-lg {
+  font-size: 1.5em;
+  padding: 15px 18px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+
+.rounded-lg {
+  border-radius: 15px;
+}
+
+.contacts button {
+  font-size: 1.5em;
+  width: 60%;
+  padding: 15px 18px;
+  border-radius: 15px;
+  background-color: #333;
+  margin-left: 25%;
+  color: #fff;
+  cursor: pointer;
+}
+
+
+.container{
+    width: 25%;
+    margin-left: 35%;
+}
+
+img {
+  width: 225px;
+  height: 225px;
+  border-radius: 50%;
+}
+
+.container button{
+  font-size: 1.5em;
+  width: 60%;
+  padding: 15px 18px;
+  border-radius: 15px;
+  background-color: #333;
+  margin-left: 25%;
+  margin-top: 75px;
+  color: #fff;
+  cursor: pointer;
+}
+
+nav {
+  background-color: #444;
+  padding: 0.5em;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  margin-right: 10px;
+  display: inline-block;
+}
+
+section {
+  padding: 20px;
+}
+
+.nav .logreg {
+  float: right;
+  clear: right;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+}
